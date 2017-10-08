@@ -14,6 +14,7 @@ Fork this project and add your username + profile link to the ![Census](https://
 
 ### Census
  - ![Cutwell](https://github.com/Cutwell)
+ - ![shrikarvk](https://github.com/shrikarvk)
  - ![vicennial](https://github.com/vicennial)
  - ![pmdamora](https://github.com/pmdamora)
  - ![Vyautask](https://github.com/vytautask)
