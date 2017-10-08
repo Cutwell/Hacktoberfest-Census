@@ -13,12 +13,13 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [Cutwell](https://github.com/Cutwell)
- - [Dylan](https://github.com/dylanmaryk)
- - [shrikarvk](https://github.com/shrikarvk)
- - [vicennial](https://github.com/vicennial)
- - [pmdamora](https://github.com/pmdamora)
- - [Vyautask](https://github.com/vytautask)
- - [Frewacom](https://github.com/Frewacom)
- - [Pablo](https://github.com/pablo0910)
- - [thatguywiththatname](https://github.com/thatguywiththatname)
+ - ![Cutwell](https://github.com/Cutwell)
+ - ![Dylan](https://github.com/dylanmaryk)
+ - ![shrikarvk](https://github.com/shrikarvk)
+ - ![vicennial](https://github.com/vicennial)
+ - ![pmdamora](https://github.com/pmdamora)
+ - ![Vyautask](https://github.com/vytautask)
+ - ![Frewacom](https://github.com/Frewacom)
+ - ![Pablo](https://github.com/pablo0910)
+ - ![thatguywiththatname](https://github.com/thatguywiththatname)
+ - ![Selbahc](https://github.com/Selbahc)
