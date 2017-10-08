@@ -44,4 +44,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ApCoder123](https://github.com/ApCoder123)
  - [Shankhalika](https://github.com/Shankhalika)
  - [Pcheape](https://github.com/Pcheape)
+ - [easymax1069](https://github.com/easymax1069)
  - [hereismyusername](https://github.com/hereismyusername)
