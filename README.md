@@ -50,6 +50,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [sarsiz](https://github.com/sarsiz)
  - [YashitM](https://github.com/YashitM)
  - [Hazen91](https://github.com/Hazen91)
+ - [ericduns](https://github.com/ericduns)
  - [carterschieffer](https://github.com/carterschieffer)
  - [davidkiarie](https://github.com/davidkiarie)
  - [Charllo](https://github.com/Charllo)
