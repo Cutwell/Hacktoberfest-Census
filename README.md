@@ -49,3 +49,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [hereismyusername](https://github.com/hereismyusername)
  - [sarsiz](https://github.com/sarsiz)
  - [YashitM](https://github.com/YashitM)
+ - [Hazen91](https://github.com/Hazen91)
