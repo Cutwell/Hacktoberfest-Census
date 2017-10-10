@@ -105,3 +105,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [madsroskar](https://github.com/madsroskar)
  - [vishalpolley](https://github.com/vishalpolley)
  - [iknoorjobs](https://github.com/iknoorjobs)
+ - [James Price](https://github.com/price84)
