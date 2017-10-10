@@ -110,3 +110,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [gaurang444](https://github.com/gaurang444)
  - [cacahds](https://github.com/cacahds)
  - [arpitgogia](https://github.com/arpitgogia)
+ - [Bazooo](https://github.com/Bazooo/)
