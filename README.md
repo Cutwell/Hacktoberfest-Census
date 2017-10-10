@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Kat35601](https://github.com/Kat35601)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -95,5 +96,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [nikssardana](https://github.com/nikssardana)
  - [develop-build](https://github.com/develop-build)
  - [poeti8](https://github.com/poet8)
- - [priyansh2](https://github.com/Priyansh2)
- - [Kat35601](https://github.com/Kat35601)
+ - [xepozz](https://github.com/xepozz)
