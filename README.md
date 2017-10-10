@@ -105,5 +105,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [madsroskar](https://github.com/madsroskar)
  - [vishalpolley](https://github.com/vishalpolley)
  - [iknoorjobs](https://github.com/iknoorjobs)
+ - [haleycs](https://github.com/haleycs)
  - [gaurang444](https://github.com/gaurang444)
  - [cacahds](https://github.com/cacahds)
