@@ -56,4 +56,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [carterschieffer](https://github.com/carterschieffer)
  - [davidkiarie](https://github.com/davidkiarie)
  - [Charllo](https://github.com/Charllo)
+ - [emdavis7](https://github.com/emdavis7)
  - [Mo7amed-3bdalla7](https://github.com/mo7amed-3bdalla7)
