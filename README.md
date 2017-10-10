@@ -114,3 +114,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [sergeygorky](https://github.com/sergeygorky)
  - [margotavares](https://github.com/margotavares)
  - [nitharios](https://github.com/nitharios)
+ - [Bazooo](https://github.com/Bazooo/)
+ - [alxlark](https://github.com/alxlark)
