@@ -127,6 +127,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [fabianobizarro](https://github.com/fabianobizarro)
  - [Frank](https://github.com/frankles12)
  - [ashleysullins](https://github.com/ashleysullins)
+ - [earthchie](https://github.com/earthchie)
  - [mrsideshowjack](https://github.com/mrsideshowjack)
  - [Galiant](https://github.com/Galiant)
  - [lulzhipsters](https://github.com/lulzhipsters)
