@@ -117,6 +117,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Bazooo](https://github.com/Bazooo/)
  - [alxlark](https://github.com/alxlark)
  - [ralph9](https://github.com/ralph9)
+ - [fauer4effect](https://github.com/fauer4effect)
  - [TangibleIce](https://github.com/TangibleIce)
  - [Bobby Pinard](https://github.com/bobbypinard)
  - [AlvarezKevin](https://github.com/AlvarezKevin)
@@ -124,4 +125,3 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [fabianobizarro](https://github.com/fabianobizarro)
  - [Frank](https://github.com/frankles12)
  - [ashleysullins](https://github.com/ashleysullins)
- 
