@@ -137,3 +137,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Jogendra](https://github.com/imjog)
  - [lip3k](https://github.com/lip3k)
  - [kizeki](https://github.com/kizeki)
+ - [YingChid](https://github.com/YingChid)
