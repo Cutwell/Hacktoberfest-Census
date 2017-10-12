@@ -179,5 +179,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [navjot12](https://github.com/navjot12)
  - [nitsujed](https://github.com/Nitsujed)
  - [stonenots](https://github.com/stonenots)
+ - [HappyAfroSkeleton](https://github.com/HappyAfroSkeleton)
  - [Rorixrebel](https://github.com/RorixRebel)
  - [RajPathare](https://github.com/RajPathare)
