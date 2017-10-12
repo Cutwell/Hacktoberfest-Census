@@ -152,6 +152,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [darcardona](https://github.com/darcardona)
  - [getjnxed](https://github.com/getjnxed)
  - [Daxtron2](https://github.com/Daxtron2)
+ - [akbansa](https://github.com/akbansa)
  - [ipoobest](https://github.com/ipoobest)
  - [cskaza](https://github.com/cskaza)
  - [jethrokuan](https://github.com/jethrokuan)
