@@ -195,3 +195,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Rorixrebel](https://github.com/RorixRebel)
  - [RajPathare](https://github.com/RajPathare)
  - [Benjamin Misell](https://github.com/benjaminmisell)
+ - [RichardVaughan](https://github.com/rvaughan)
