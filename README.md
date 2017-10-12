@@ -180,6 +180,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [navjot12](https://github.com/navjot12)
  - [nitsujed](https://github.com/Nitsujed)
  - [stonenots](https://github.com/stonenots)
+ - [felipet-vsouza](https://github.com/felipet-vsouza)
  - [giandolando](https://github.com/giandolando)
  - [petro36](https://github.com/Petro36)
  - [dduncan](https://github.com/dduncan1987)
