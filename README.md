@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Grace Stuart](https://github.com/gstuart)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -180,3 +181,9 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [nitsujed](https://github.com/Nitsujed)
  - [stonenots](https://github.com/stonenots)
  - [aryan-mann](https://github.com/aryan-mann)
+ - [Kusumoto](https://github.com/kusumoto)
+ - [heemza](https://github.com/heemza)
+ - [wtospit](https://github.com/wtospit)
+ - [HappyAfroSkeleton](https://github.com/HappyAfroSkeleton)
+ - [Rorixrebel](https://github.com/RorixRebel)
+ - [RajPathare](https://github.com/RajPathare)
