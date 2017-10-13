@@ -246,3 +246,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [tmteamz](https://github.com/tmteamz)
  - [gerd2002](https://github.com/gerd2002)
  - [RiKap](https://github.com/RiKap)
+ - [Pintman](https://github.com/pintman)
+ - [hellotunmbi](https://github.com/hellotunmbi)
+ - [raynescc](https://github.com/raynescc)
