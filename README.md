@@ -15,9 +15,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [StevenCopeland](https://github.com/StevenCopeland)
- - [Zakaos](https://github.com/zakaos)
- - [Grace Stuart](https://github.com/gstuart)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -219,3 +216,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Zakaos](https://github.com/zakaos)
  - [Grace Stuart](https://github.com/gstuart)
  - [jespicas](https://github.com/jespicas)
+ - [StevenCopeland](https://github.com/StevenCopeland)
+ - [Zakaos](https://github.com/zakaos)
+ - [Grace Stuart](https://github.com/gstuart)
