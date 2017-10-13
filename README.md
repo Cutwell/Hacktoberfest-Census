@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [StevenCopeland](https://github.com/StevenCopeland)
  - [Zakaos](https://github.com/zakaos)
  - [Grace Stuart](https://github.com/gstuart)
  - [Cutwell](https://github.com/Cutwell)
@@ -199,3 +200,9 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [RichardVaughan](https://github.com/rvaughan)
  - [plod](https://github.com/plod)
  - [daphnied](https://github.com/daphnied)
+ - [rpottsoh](https://github.com/rpottsoh)
+ - [DrevanTonder](https://github.com/DrevanTonder)
+ - [mconcannon](https://github.com/mconcannon)
+ - [scrabill](https://github.com/scrabill)
+ - [CGreenburg](https://github.com/CGreenburg)
+ - [jjcc1421](https://github.com/jjcc1421)
