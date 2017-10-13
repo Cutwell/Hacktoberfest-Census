@@ -245,6 +245,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Thanawat](https://github.com/bossbossk20)
  - [tmteamz](https://github.com/tmteamz)
  - [gerd2002](https://github.com/gerd2002)
+ - [cricketer94](https://github.com/cricketer94)
  - [Abhi](https://github.com/abhitekula)
  - [rishabh115](https://github.com/rishabh115)
  - [iamso](https://github.com/iamso)
