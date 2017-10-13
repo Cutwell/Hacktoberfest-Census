@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [StevenCopeland](https://github.com/StevenCopeland)
  - [Zakaos](https://github.com/zakaos)
  - [Grace Stuart](https://github.com/gstuart)
  - [Cutwell](https://github.com/Cutwell)
