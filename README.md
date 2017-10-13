@@ -198,6 +198,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Benjamin Misell](https://github.com/benjaminmisell)
  - [RichardVaughan](https://github.com/rvaughan)
  - [plod](https://github.com/plod)
+ - [cyrum](https://github.com/cyrum)
  - [mconcannon](https://github.com/mconcannon)
  - [scrabill](https://github.com/scrabill)
  - [CGreenburg](https://github.com/CGreenburg)
