@@ -15,7 +15,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [rishabh115](https://github.com/rishabh115)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -246,3 +245,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Thanawat](https://github.com/bossbossk20)
  - [tmteamz](https://github.com/tmteamz)
  - [gerd2002](https://github.com/gerd2002)
+ - [rishabh115](https://github.com/rishabh115)
