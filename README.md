@@ -264,3 +264,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [hellotunmbi](https://github.com/hellotunmbi)
  - [raynescc](https://github.com/raynescc)
  - [Hisman](https://github.com/hisman)
+ - [Phoebe](https://github.com/phoebewong)
+ - [pdejan](https://github.com/pdejan)
