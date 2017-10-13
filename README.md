@@ -196,6 +196,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Benjamin Misell](https://github.com/benjaminmisell)
  - [RichardVaughan](https://github.com/rvaughan)
  - [plod](https://github.com/plod)
+ - [Magauran](https://github.com/Magauran)
  - [PornthepS] (https://github.com/PornthepS)
  - [NesChaiyapon](https://github.com/NesChaiyapon)
  - [dance2die](https://github.com/dance2die)
