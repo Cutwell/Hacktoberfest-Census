@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [HistoireDeBabar](https://github.com/HistoireDeBabar)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
