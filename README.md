@@ -148,6 +148,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Ishaan0905](https://github.com/Ishaan0905)
  - [shubhshrma](https://github.com/shubhshrma)
  - [kizeki](https://github.com/kizeki)
+ - [Kartik ](https://github.com/kartik70rajesh)
  - [YingChid](https://github.com/YingChid)
  - [darcardona](https://github.com/darcardona)
  - [getjnxed](https://github.com/getjnxed)
