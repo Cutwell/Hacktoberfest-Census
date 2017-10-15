@@ -267,6 +267,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [jackiemacharia](https://github.com/jackiemacharia)
  - [xEpozZ](https://github.com/xepozz)
  - [CorneliusIV](https://github.com/CorneliusIV)
  - [okrasn](https://github.com/okrasn)
