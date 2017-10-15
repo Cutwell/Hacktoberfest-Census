@@ -288,7 +288,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [randomization](https://github.com/randomization)
  - [NicoPennec](https://github.com/NicoPennec)
  - [brookesargent](https://github.com/brookesargent)
- - [felipemfarias](https://github.com/felipemfarias)]
+ - [felipemfarias](https://github.com/felipemfarias)
  - [ellisonleao](https://github.com/ellisonleao)
  - [jackiemacharia](https://github.com/jackiemacharia)
  - [xEpozZ](https://github.com/xepozz)
@@ -297,3 +297,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
+ - [vitorlans](https://github.com/vitorlans)
+
