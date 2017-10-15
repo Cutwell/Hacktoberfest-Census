@@ -267,6 +267,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [CptSpookz](https://github.com/CptSpookz)
  - [randomization](https://github.com/randomization)
  - [NicoPennec](https://github.com/NicoPennec)
  - [brookesargent](https://github.com/brookesargent)
