@@ -268,6 +268,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [georgeg308](https://github.com/georgeg308)
  - [jaymcgrath](https://github.com/jaymcgrath)
  - [netsudo](https://github.com/netsudo)
  - [zotamias](https://github.com/zotamias)
