@@ -143,6 +143,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [bsZeroFive](https://github.com/bsZeroFive)
  - [wadehammes](https://github.com/wadehammes)
  - [Mack-akp](https://github.com/Mack-akp)
+ - [HS](https://github.com/harishankards)
  - [Ayush](http://github.com/ayush987goyal)
  - [4nkit](https://github.com/4nkit)
  - [peanutbutteer](https://github.com/peanutbutteer)
