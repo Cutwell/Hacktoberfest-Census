@@ -298,7 +298,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
- - [karthikmuru](https://github.com/karthikmuru)
+ - [LRNZ09](https://github.com/LRNZ09)
  - [SDussault](https://github.com/sdussault)
  - [Terry](https://github.com/tedinh)
  - [Ho Xuan Vinh](https://github.com/hovinh)
