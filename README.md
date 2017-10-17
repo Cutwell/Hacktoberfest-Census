@@ -16,7 +16,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 
 ### Census
  - [Cutwell](https://github.com/Cutwell)
- - [TheKage](https://github.com/TheKage)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -364,3 +363,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+ - [TheKage](https://github.com/TheKage)
