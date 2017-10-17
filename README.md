@@ -345,3 +345,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [reinbauwens](https://github.com/reinbauwens)
  - [Yohan](https://github.com/yohanbash)
  - [HeavyVin](https://github.com/HeavyVin)
+ - [RuchikaModi](https://github.com/rm-1612)
