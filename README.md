@@ -308,7 +308,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [joseph-perez](https://github.com/joseph-perez)
  - [Link270](https://github.com/Link270)
  - [Kubatyszko](https://github.com/kubatyszko)
-- - [jkomyno](https://github.com/jkomyno)
+ - [jkomyno](https://github.com/jkomyno)
  - [zorawar87](https://github.com/zorawar87)
  - [udit-001](https://github.com/udit-001/)
  - [Djdany01](https://github.com/djdany01)
@@ -363,3 +363,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+ - [infernalslam](https://github.com/infernalslam)
+ 
