@@ -363,5 +363,11 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+ - [CJWilliams20](https://github.com/CJWilliams20)
+ - [yerenutku](https://github.com/yerenutku)
+ - [oemegil](https://github.com/oemegil)
+ - [uguratmaca](https://github.com/uguratmaca)
+ - [Jerodev](https://github.com/jerodev)
+ - [ksjc1995](https://github.com/ksjc1995)
  - [dan1eltudares](https://github.com/dan1eltudares)
 
