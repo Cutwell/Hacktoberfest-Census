@@ -20,6 +20,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
  - [vicennial](https://github.com/vicennial)
+ - [Tikam Alma](https://github.com/Tikam02)
  - [pmdamora](https://github.com/pmdamora)
  - [Vyautask](https://github.com/vytautask)
  - [Frewacom](https://github.com/Frewacom)
