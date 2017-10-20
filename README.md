@@ -352,6 +352,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PvcPre](https://github.com/pvcpre)
  - [kUSHAL0601](https://github.com/kUSHAL0601)
  - [RuchikaModi](https://github.com/rm-1612)
+ - [licsth](https//github.com/licsth)
  - [The Batman](https://github.com/iamnapo)
  - [Dimsedane](https://github.com/dimsedane)
  - [Jatin](https://github.com/urdarinda)
@@ -363,3 +364,10 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
  - [arti97](https://github.com/arti97)
+ - [CJWilliams20](https://github.com/CJWilliams20)
+ - [yerenutku](https://github.com/yerenutku)
+ - [oemegil](https://github.com/oemegil)
+ - [uguratmaca](https://github.com/uguratmaca)
+ - [Jerodev](https://github.com/jerodev)
+ - [ksjc1995](https://github.com/ksjc1995)
+
