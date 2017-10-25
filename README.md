@@ -9,9 +9,9 @@ This census has a live webpage [here](http://www.abheyrana.me/Hacktoberfest-Cens
 ---
 
 ### Contributing
-Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a Pull Request to add your name to this repository like so..
+Fork this project and add your username + profile link to the [Census](https://github.com/Abhey/Hacktoberfest-Census#census) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
-[Cutwell](https://github.com/Cutwell)
+[Abhey](https://github.com/Abhey)
 ```
 
 ### Census
