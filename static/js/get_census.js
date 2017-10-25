@@ -1,5 +1,5 @@
 $.get(
-    "https://raw.githubusercontent.com/Cutwell/Hacktoberfest-Census/master/README.md",
+    "https://raw.githubusercontent.com/Abhey/Hacktoberfest-Census/master/README.md",
     function(file) {
         var census_md = file.split("### Census")[1].split("\n");
         census_md.map((user) => {
