@@ -35,9 +35,9 @@ br {
 	margin: 1em;
 }
 .banner {
-	height: auto;
+	tinggi: auto;
 	max-width: 50em;
-	width: 100%;
+	lebar: 100%;
 }
 .repo-desc {
   font-size: 2em;
