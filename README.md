@@ -24,6 +24,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Vyautask](https://github.com/vytautask)
  - [Frewacom](https://github.com/Frewacom)
  - [Pablo](https://github.com/pablo0910)
+ - [yadia](https://github.com/yadia)
  - [hackbansu](https://github.com/hackbansu)
  - [Selbahc](https://github.com/Selbahc)
  - [Yikal](https://github.com/Yikal)
@@ -369,3 +370,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+
