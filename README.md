@@ -16,6 +16,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 
 ### Census
  - [Cutwell](https://github.com/Cutwell)
+ - [Mayrose](https://github.com/intoro)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -266,7 +267,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Pintman](https://github.com/pintman)
  - [hellotunmbi](https://github.com/hellotunmbi)
  - [raynescc](https://github.com/raynescc)
- - [Covah](https://github.com/covah) 
+ - [Covah](https://github.com/covah)
  - [Hisman](https://github.com/hisman)
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
