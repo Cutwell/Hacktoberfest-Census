@@ -364,8 +364,9 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
  - [CJWilliams20](https://github.com/CJWilliams20)
- - [yerenutku](https://github.com/yerenutku)
+ - [yerenutku](https://github.com/yerenutku)  
  - [oemegil](https://github.com/oemegil)
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
- - [ksjc1995](https://github.com/ksjc1995)
+ - [ksjc1995](https://github.com/ksjc1995) - 
+[maneesh1121](https://github.com/maneesh1121)
