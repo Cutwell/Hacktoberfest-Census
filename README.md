@@ -15,6 +15,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Alyssa] ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
  - [Cutwell](https://github.com/Cutwell)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
