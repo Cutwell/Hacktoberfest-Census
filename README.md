@@ -368,4 +368,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [oemegil](https://github.com/oemegil)
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
- - [ksjc1995](https://github.com/ksjc1995)
+ - [ksjc1995](https://github.com/ksjc1995)  
+ - [ItsPugle](https://github.com/itspugle)
