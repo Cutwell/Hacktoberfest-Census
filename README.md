@@ -271,6 +271,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [JuanLoLuna](https://github.com/JuanLoLuna)
+ - [ryantruran](https://github.com/ryantruran)
  - [maryna-yanul](https://github.com/maryna-yanul)
  - [TacticalSandwich](https://github.com/TacticalSandwich)
  - [georgeg308](https://github.com/georgeg308)
@@ -370,4 +372,3 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
  - [mrsdark](https://github.com/mrsdark)
-
