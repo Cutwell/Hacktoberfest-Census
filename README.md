@@ -15,7 +15,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [Md Danish Anwar](https://github.com/danishanwar)
  - [Cutwell](https://github.com/Cutwell)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -268,3 +267,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [Md Danish Anwar](https://github.com/danishanwar)
