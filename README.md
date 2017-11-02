@@ -24,6 +24,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 
 ### Census
  - [Cutwell](https://github.com/Cutwell)
+ - [adammendoza](https://github.com/adammendoza)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
@@ -207,6 +208,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Benjamin Misell](https://github.com/benjaminmisell)
  - [RichardVaughan](https://github.com/rvaughan)
  - [plod](https://github.com/plod)
+ - [rerlanggas](https://github.com/rerlanggas)
  - [logichub](https://github.com/logichub)
  - [minatorak](https://github.com/minatorak)
  - [Babbitt](https://github.com/babbitt)
