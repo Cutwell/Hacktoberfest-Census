@@ -281,6 +281,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [blaze-nitd](https://github.com/blaze-nitd)
  - [kajornsakp](https://github.com/kajornsakp)
  - [7Orion7](https://github.com/7Orion7)
  - [wesolowski](https://github.com/wesolowski)
