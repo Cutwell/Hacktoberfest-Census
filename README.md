@@ -23,3 +23,4 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Legacy Census (to make dealing with backlog easier!):
+ - [Thignus](https://github.com/thignus)
