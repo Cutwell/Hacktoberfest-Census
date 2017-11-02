@@ -358,7 +358,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ClaudeRenney](https://github.com/clauderenney)
  - [Worranut](https://github.com/worranut)
  - [hernan940730](https://github.com/hernan940730)
- - [lwagf](https://github.com/lwagf "I want a girlfriend")
+ - [lwagf](https://github.com/lwagf)
  - [dushyantRathore](https://github.com/dushyantRathore)
  - [reinbauwens](https://github.com/reinbauwens)
  - [Yohan](https://github.com/yohanbash)
