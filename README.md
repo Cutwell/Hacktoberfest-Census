@@ -390,6 +390,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+ - [jonathandezoete](https://github.com/jonathandezoete)
  - [Aish94](https://github.com/Aish94)
  - [HemeraOne](https://github.com/HemeraOne)
  - [alexjcollins](https://github.com/alexjcollins)
