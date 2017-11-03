@@ -391,7 +391,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
- - [michellechristina](https://github.com/michellechristina)
+ - [JonathanDeLeon](https://github.com/JonathanDeLeon)
  - [ryanpineo](https://github.com/ryanpineo)
  - [rolstenhouse](https://github.com/rolstenhouse)
  - [kittyengineer](https://github.com/kittyengineer)
