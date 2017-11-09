@@ -10,14 +10,15 @@
 
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
 
-This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census), it's automatically updated every time a PR is accepted!
+This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
 
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
 
 ### Contributing
-Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a Pull Request to add your name to this repository like so..
+Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
+
 ```markdown
 [Cutwell](https://github.com/Cutwell)
 ```
@@ -89,7 +90,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [LucasVC800](https://github.com/LucasVC800)
  - [rickMcGavin](https://github.com/rickMcGavin)
  - [Celesteessel](https://github.com/celesteessel)
- - [James](http://github.com/jamesmlee)
+ - [James](https://github.com/jamesmlee)
  - [Heather Fenton](https://github.com/hfenton)
  - [loonz206](https://github.com/Loonz206)
  - [bezierer](https://github.com/bezierer)
@@ -156,7 +157,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [wadehammes](https://github.com/wadehammes)
  - [Mack-akp](https://github.com/Mack-akp)
  - [HS](https://github.com/harishankards)
- - [Ayush](http://github.com/ayush987goyal)
+ - [Ayush](https://github.com/ayush987goyal)
  - [4nkit](https://github.com/4nkit)
  - [peanutbutteer](https://github.com/peanutbutteer)
  - [mixkungz](https://github.com/mixkungz)
@@ -383,7 +384,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PvcPre](https://github.com/pvcpre)
  - [kUSHAL0601](https://github.com/kUSHAL0601)
  - [RuchikaModi](https://github.com/rm-1612)
- - [licsth](https//github.com/licsth)
+ - [licsth](https://github.com/licsth)
  - [The Batman](https://github.com/iamnapo)
  - [Dimsedane](https://github.com/dimsedane)
  - [Jatin](https://github.com/urdarinda)
