@@ -412,6 +412,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+ - [rejuls](https://github.com/rejuls)
  - [julianaklulo](https://github.com/julianaklulo)
  - [tomasz-tomczyk](https://github.com/tomasz-tomczyk)
  - [svkampen](https://github.com/svkampen)
