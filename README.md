@@ -360,6 +360,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Terry](https://github.com/tedinh)
  - [Ho Xuan Vinh](https://github.com/hovinh)
  - [PDavid](https://github.com/PDavid)
+ - [juansebasmv](https://github.com/juansebasmv)
  - [rhnvrm](https://github.com/rhnvrm)
  - [elaineakemi](https://github.com/elaineakemi)
  - [hkd987](https://github.com/hkd987)
