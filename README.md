@@ -331,6 +331,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
+ - [Singha22](https://github.com/Singha22)
  - [Kartikishere](https://github.com/kartikishere)
  - [Nikita Korba](https://github.com/nikitakorba)
  - [GregoryMarchese](https://github.com/gregorymarchese)
