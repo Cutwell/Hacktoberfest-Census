@@ -24,6 +24,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [HistoireDeBabar](https://github.com/HistoireDeBabar)
  - [Jac08H](https://github.com/Jac08H)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
