@@ -406,6 +406,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+ - [jaldhar](https://github.com/jaldhar)
  - [CristianLivella](https://github.com/cristianlivella)
  - [aaazureee](https://github.com/aaazureee)
  - [EnderManOfCoding](https://github.com/EndermanOfCoding)
@@ -435,4 +436,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [amanvishnani](https://github.com/amanvishnani)
  - [SrGrace](https://github.com/SrGrace)
  - [Fábio Salata](https://github.com/fsalata)
- - [IgorRozani](https://github.com/igorrozani) 
+ - [IgorRozani](https://github.com/igorrozani)
