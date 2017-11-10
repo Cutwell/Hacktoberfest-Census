@@ -347,6 +347,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
+ - [vitorlans](https://github.com/vitorlans)
  - [harsh4723](https://github.com/harsh4723)
  - [enneakr](https://github.com/enneakr)
  - [yuro8](https://github.com/yuro8)
