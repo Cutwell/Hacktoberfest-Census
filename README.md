@@ -288,6 +288,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [codeSmart2307](https://github.com/codeSmart2307)
  - [TortleOG](https://github.com/TortleOG)
  - [OscarPan](https://github.com/oscarpan)
  - [riddhi2000](https://github.com/riddhi2000)
