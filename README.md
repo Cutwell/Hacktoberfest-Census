@@ -288,7 +288,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
- - [riddhi2000](https://github.com/riddhi2000)
+ - [42flyingfish](https://github.com/42flyingfish)
  - [wailay](https://github.com/wailay)
  - [eugpoloz](https://github.com/eugpoloz)
  - [AlthafHussainK](https://github.com/AlthafHussainK)
