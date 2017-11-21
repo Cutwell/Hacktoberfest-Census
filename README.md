@@ -440,6 +440,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+ - [samyak-jain](https://github.com/samyak-jain)
  - [saifulwebid](https://github.com/saifulwebid)
  - [Neil Kakkar](https://github.com/neilkakkar)
  - [Pinjasaur](https://github.com/Pinjasaur)
