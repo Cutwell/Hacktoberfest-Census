@@ -476,6 +476,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+ - [ZaninAndrea](https://github.com/ZaninAndrea)
  - [LiamNorman](https://github.com/LiamNorman)
  - [GuyLivni](https://github.com/GuyLivni)
  - [AjesusFlores](https://github.com/ajesusflores)
