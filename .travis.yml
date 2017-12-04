@@ -1,0 +1,6 @@
+sudo: false
+language: node_js
+node_js:
+      - 'stable'
+install: npm install -g markdownlint-cli
+script: markdownlint .
