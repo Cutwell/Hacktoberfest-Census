@@ -477,6 +477,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
  - [cassianoamarinho](https://github.com/cassianoamarinho)
+ - [Dane David](https://github.com/danedavid)
  - [elijahio](https://github.com/elijahio)
  - [alfredrichards](https://github.com/alfredrichards)
  - [tab8748](https://github.com/tab8748)
