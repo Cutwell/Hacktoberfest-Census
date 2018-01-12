@@ -24,8 +24,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [HistoireDeBabar](https://github.com/HistoireDeBabar)
- - [Jac08H](https://github.com/Jac08H)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
@@ -285,6 +283,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Pintman](https://github.com/pintman)
  - [hellotunmbi](https://github.com/hellotunmbi)
  - [raynescc](https://github.com/raynescc)
+ - [HistoireDeBabar](https://github.com/HistoireDeBabar)
+ - [Jac08H](https://github.com/Jac08H)
  - [Covah](https://github.com/covah)
  - [Hisman](https://github.com/hisman)
  - [Phoebe](https://github.com/phoebewong)
