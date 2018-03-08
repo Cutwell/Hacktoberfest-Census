@@ -350,6 +350,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
+ - [Curchel](https://github.com/Curchel)
  - [sree](https://github.com/r-sreesaran)
  - [accakks](https://github.com/accakks)
  - [sublistic](https://github.com/sublistic)
