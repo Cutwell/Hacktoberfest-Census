@@ -1,75 +1,92 @@
 body {
-	margin: 0em;
-	padding: 0em;
-	height: 100%;
-	width: 100%;
-    font-family: 'Josefin Sans', sans-serif;
-    background-color: #fff;
+  margin: 0em;
+  padding: 0em;
+  height: 100%;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  background-color: #fff;
 }
+
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
+
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
+
 br {
-    line-height: 3em;
+  line-height: 3em;
 }
+
 .fill {
 	height: 100%;
-	width: 100%;
+	position: relative;
 }
+
 .center {
-	display: block;
-    margin: auto;
-    width: 50%;
-	text-align: center;
+  display: block;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
+
 .top {
-	background-color: #ff8764;
+  background-color: #ff8764;
+  height: 100vh;
 }
+
 .bottom {
-	background-color: #fff;
-	margin: 1em;
+  background-color: #fff;
+  margin: 1em;
 }
+
 .banner {
-	height: 18.75em;
-	width: 50em;
+  height: auto;
+  max-width: 50em;
+  width: 100%;
 }
+
 .repo-desc {
-    font-size: 2em;
+  font-size: 2em;
 }
+
 .repo-link  {
-    color: #000;
-    background-color: #fff;
-    text-align: center;
-    font-size: 2em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    width: 10em;
-    height: 1em;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  width: 10em;
+  height: 1em;
 }
+
 .repo-link:hover {
-    text-decoration: none;
-    background-color: #008cba;
-    color: #fff;
+  text-decoration: none;
+  background-color: #008cba;
+  color: #fff;
 }
+
 .census-title {
-    font-size: 2.3em;
-    padding: 1em;
+  font-size: 2.3em;
+  padding: 1em;
 }
+
 .census-list {
 
 }
+
 .census-item {
-    font-size: 1em;
-    float:left;
-    padding: 0.2em;
-    padding-right: 2em;
+  font-size: 1em;
+  float: left;
+  padding: 0.2em;
+  padding-right: 2em;
 }
+
 ul.items li:nth-child(3n+4) {
-  clear:left;
-  float:left;
+  clear: left;
+  float: left;
 }
