@@ -411,6 +411,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [kohehir](https://github.com/kohehir)
  - [Srijancse](https://github.com/Srijancse)
  - [lwagf](https://github.com/lwagf)
+ - [chelciebritt](https://github.com/chelciebritt)
  - [ClaudeRenney](https://github.com/clauderenney)
  - [Worranut](https://github.com/worranut)
  - [hernan940730](https://github.com/hernan940730)
