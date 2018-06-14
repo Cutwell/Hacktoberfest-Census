@@ -70,6 +70,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ericduns](https://github.com/ericduns)
  - [carterschieffer](https://github.com/carterschieffer)
  - [davidkiarie](https://github.com/davidkiarie)
+ - [karthikJagadeesh](https://github.com/karthikJagadeesh)
  - [Charllo](https://github.com/Charllo)
  - [Arrowfan](https://github.com/Arrowfan)
  - [alexandvoigt](https://github.com/alexandvoigt)
