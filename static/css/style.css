@@ -4,16 +4,14 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Josefin Sans", sans-serif;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
+
 
 br {
   line-height: 3em;
@@ -37,7 +35,7 @@ br {
 }
 
 .bottom {
-  background-color: #fff;
+  background-color: #ffffff;
   margin: 1em;
 }
 
