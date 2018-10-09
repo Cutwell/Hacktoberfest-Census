@@ -528,6 +528,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [jonsamp](https://github.com/jonsamp)
  - [natasman](https://github.com/natasman)
  - [mdb1](https://github.com/mdb1)
+ - [epergo](https://github.com/epergo)
  - [nyaazi](https://github.com/nyaazi)
  - [JonathanDeLeon](https://github.com/JonathanDeLeon)
  - [michellechristina](https://github.com/michellechristina)
