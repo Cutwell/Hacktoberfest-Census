@@ -1,20 +1,26 @@
 # Hacktoberfest Census
 
-### Thanks to all who participated this year, Happy #Hacktoberfest2017!
-
-# Final Total:
-### Pull Requests: 1803
-### Accepted: 356 (lol :D)
-
-### Another thanks to those who are helping accept the massive backlog of PR's (Although it probably still won't be cleared until #Hacktoberfest2018)!
-
-A census of those participating in Hacktoberfest 2017 (and an easy PR!)
+A census of those participating in Hacktoberfest (and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
 
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
+
+### A Short Letter to Contributors
+Hi All, old or new Hacktoberfest contributors!
+
+This repository was initially created for the 2017 Hacktoberfest as a half joke, half serious census.
+Given that I've seen over a hundred new pull requests in the last 2 days alone, I guess you guys want to use it this year as well!
+
+Until I get around to implementing a bot, don't expect the census to be updated in any meaningful way. However a PR doesn't need to be accepted to count for Hacktoberfest so that's fine.
+
+I would encourage everyone who participates in this project to not count it as one of your five Open Source contributions, due to it's simplistic nature, although obviously I can't stop you.
+
+Have a great Hacktoberfest ya'll and happy hacking!
+
+ - Cutwell, 2018
 
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
@@ -411,6 +417,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [kohehir](https://github.com/kohehir)
  - [Srijancse](https://github.com/Srijancse)
  - [lwagf](https://github.com/lwagf)
+ - [chelciebritt](https://github.com/chelciebritt)
  - [ClaudeRenney](https://github.com/clauderenney)
  - [Worranut](https://github.com/worranut)
  - [hernan940730](https://github.com/hernan940730)
@@ -481,6 +488,9 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uguratmaca](https://github.com/uguratmaca)
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
+ - [Kiailandi](https://github.com/kiailandi)
+ - [JesseRhoads](https://github.com/JesseRhoads)
+ - [bsungur](https://github.com/bsungur)
  - [leticiafatimaa](https://github.com/leticiafatimaa) 
  - [ggurbet](https://github.com/ggurbet)
  - [Dane David](https://github.com/danedavid)
