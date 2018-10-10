@@ -1,0 +1,130 @@
+
+.timeline ul li {
+  list-style-type: none;
+  position: relative;
+  width: 6px;
+  margin-left: 50%;
+  padding-top: 50px;
+  background: white;
+}
+
+.timeline ul li::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: inherit;
+
+}
+
+.timeline ul li div {
+  position: relative;
+  bottom: 0;
+  width: 450px;
+  padding: 20px;
+  background: #F45B69;
+  border-radius: 15px;
+
+}
+
+.timeline ul li div:hover{
+  position: relative;
+  bottom: 0;
+  width: 450px;
+  padding: 20px;
+  background: #3773d3;
+  border-radius: 15px;
+  -webkit-transition:ease width 2000ms;
+  transition:ease width 2000ms;
+}
+
+.timeline ul li div::before {
+  content: '';
+  position: absolute;
+  bottom: 7px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+
+}
+
+.timeline ul li:nth-child(odd) div {
+  left: 45px;
+}
+
+.timeline ul li:nth-child(odd) div::before {
+  left: -15px;
+  border-width: 12px 16px 8px 0;
+  border-color: transparent #3773d3 transparent transparent;
+}
+
+.timeline ul li:nth-child(even) div {
+  left: -525px;
+  text-align: right;
+}
+
+.timeline ul li:nth-child(even) div::before {
+  right: -15px;
+  border-width: 12px 0 8px 16px;
+  border-color: transparent transparent transparent #3773d3;
+}
+
+.timeclass{
+  font: italic bold 30px Georgia, serif;
+  color: white;
+}
+
+.content-head{
+  font: bold 20px Georgia, serif;
+  color: black;
+
+}
+
+.content-desc{
+  font: 20px Georgia, serif;
+  color:black;
+}
+
+.heading-time{
+  border: 2px solid black;
+  font: bold Jokerman, Georgia, serif;
+  font-size: 40px;
+  color: #111111;
+  text-align: center;
+  text-shadow: 2px 2px red;
+}
+
+.timeline ul li::after {
+  background: #fff;
+  -webkit-transition: background 0.5s ease-in-out;
+  transition: background 0.5s ease-in-out;
+}
+ 
+.timeline ul li.in-view::after {
+  background: #F45B69;
+}
+ 
+.timeline ul li div {
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all 3s ease-in-out;
+  transition: all 3s ease-in-out;
+}
+ 
+.timeline ul li:nth-child(odd) div {
+  transform: translate3d(300px,0,0);
+}
+ 
+.timeline ul li:nth-child(even) div {
+  transform: translate3d(-300px,0,0);
+}
+ 
+.timeline ul li.in-view div {
+  transform: none;
+  visibility: visible;
+  opacity: 1;
+}
