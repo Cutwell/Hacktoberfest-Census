@@ -18,7 +18,7 @@ Until I get around to implementing a bot, don't expect the census to be updated 
 
 I would encourage everyone who participates in this project to not count it as one of your five Open Source contributions, due to it's simplistic nature, although obviously I can't stop you.
 
-Have a great Hacktoberfest ya'll and happy hackingにゃーん
+Have a great Hacktoberfest ya'll and happy hackingにゃーん?
 
  - Cutwell, 2018
 
