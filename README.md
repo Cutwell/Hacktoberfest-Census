@@ -14,7 +14,9 @@ Hi All, old or new Hacktoberfest contributors!
 This repository was initially created for the 2017 Hacktoberfest as a half joke, half serious census.
 Given that I've seen over a hundred new pull requests in the last 2 days alone, I guess you guys want to use it this year as well!
 
-Until I get around to implementing a bot, don't expect the census to be updated in any meaningful way. However a PR doesn't need to be accepted to count for Hacktoberfest so that's fine.
+~~Until I get around to implementing a bot, don't expect the census to be updated in any meaningful way. However a PR doesn't need to be accepted to count for Hacktoberfest so that's fine.~~
+
+I've now written a script to construct a census from the open Pull Requests (hence why you may see your PR being closed and opened once or twice over the next few days while it's configured).
 
 I would encourage everyone who participates in this project to not count it as one of your five Open Source contributions, due to it's simplistic nature, although obviously I can't stop you.
 
