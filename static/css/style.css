@@ -34,6 +34,7 @@ br {
 .top {
   background-color: #ff8764;
   height: 100vh;
+  position: relative;
 }
 
 .bottom {
@@ -62,6 +63,7 @@ br {
   transition-duration: 0.4s;
   width: 10em;
   height: 1em;
+  border-radius: 0.2em;
 }
 
 .repo-link:hover {
@@ -75,10 +77,6 @@ br {
   padding: 1em;
 }
 
-.census-list {
-
-}
-
 .census-item {
   font-size: 1em;
   float: left;
@@ -89,4 +87,11 @@ br {
 ul.items li:nth-child(3n+4) {
   clear: left;
   float: left;
+}
+
+.content-wrapper{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
