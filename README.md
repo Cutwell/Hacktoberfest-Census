@@ -424,7 +424,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Worranut](https://github.com/worranut)
  - [hernan940730](https://github.com/hernan940730)
  - [lwagf](https://github.com/lwagf)
- - [SleightOfHandzy] (https://github.com/SleightOfHandzy)
+ - [SleightOfHandzy](https://github.com/SleightOfHandzy)
  - [lucianosds](https://github.com/lucianosds)
  - [running-cool](https://github.com/running-cool)
  - [IsaacAbrahamson](https://github.com/IsaacAbrahamson)
@@ -554,3 +554,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [Xol](https://github.com/Xol)
