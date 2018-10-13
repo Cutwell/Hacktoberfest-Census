@@ -456,6 +456,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+
  - [Miiitch](https://github.com/micheleriva)
  - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
  - [runely](https://github.com/runely)
@@ -554,3 +555,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [DennyScott](https://github.com/DennyScott)
