@@ -551,6 +551,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [tibi77](https://github.com/tibi77)
  - [amanvishnani](https://github.com/amanvishnani)
  - [SrGrace](https://github.com/SrGrace)
+ - [Rohit Aggarwal](https://github.com/errohitagg)
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
