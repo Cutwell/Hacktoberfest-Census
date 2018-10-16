@@ -189,6 +189,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [codyogden](https://github.com/codyogden)
  - [karltanjuan](https://github.com/karltanjuan)
  - [ShubhamNishad](https://github.com/shubhamnishad97)
+ - [angelobarbano](https://github.com/angelobarbano)
  - [pangpond](https://github.com/pangpond)
  - [waritthornnudee](https://github.com/waritthornnudee)
  - [Fly1nP4nda](https://github.com/Fly1nP4nda)
