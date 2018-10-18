@@ -37,6 +37,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [adammendoza](https://github.com/adammendoza)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
+ - [Harvey](https://github.com/bl0nd)
  - [shrikarvk](https://github.com/shrikarvk)
  - [styfle](https://github.com/styfle)
  - [vicennial](https://github.com/vicennial)
