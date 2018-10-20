@@ -3,7 +3,6 @@
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census), it's automatically updated every time a PR is accepted!
-
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
