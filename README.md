@@ -147,6 +147,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [rverrips](https://github.com/rverrips)
  - [fauer4effect](https://github.com/fauer4effect)
  - [TangibleIce](https://github.com/TangibleIce)
+ - [Vargasraymondj](https://github.com/Vargasraymondj)
  - [Bobby Pinard](https://github.com/bobbypinard)
  - [AlvarezKevin](https://github.com/AlvarezKevin)
  - [MysticSeagull](https://github.com/Justinborzi)
