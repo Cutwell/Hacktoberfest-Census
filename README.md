@@ -340,7 +340,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [abhinavm27](https://github.com/abhinavm27)
  - [the-ethan-hunt](https://github.com/the-ethan-hunt)
  - [Miablo](https://github.com/Miablo)
- - [sd1998](https://github.com/sd1998)
  - [Hoffs](https://github.com/hoffs-)
  - [Aurobindo Debnath](https://github.com/aurobindodebnath)
  - [Märt M](https://github.com/martmaemees)
@@ -555,3 +554,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [sd1998](https://github.com/sd1998)
