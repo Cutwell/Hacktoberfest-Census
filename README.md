@@ -1,4 +1,4 @@
-# Hacktoberfest Census
+﻿# Hacktoberfest Census
 
 A census of those participating in Hacktoberfest (and an easy PR!)
 
@@ -554,3 +554,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [Uniiquee](https://github.com/Uniiquee)
