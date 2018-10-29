@@ -1,0 +1,13 @@
+print("The Hackathon event has got some technical errors and owing to this reason,")
+print("the people who can answer this riddle can only enter for the event.")
+print("Hence, you too need to solve it if you wish to enter.")
+print("Here is the riddle:")
+print ("if 5 + 3 = 28")
+print ("9 + 1 = 810")
+print ("8 + 6 = 214")
+print ("then, what is 7 + 3 =?")
+ans = int(input("Give your answer here:"))
+if ans = 410 :
+  print("Well,that is the correct answer. You can enter.")
+else :
+  print("Uh-Oh.That is incorrect. You can't enter.")
