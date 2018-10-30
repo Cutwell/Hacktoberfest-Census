@@ -88,6 +88,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [lichin-lin](https://github.com/lichin-lin)
  - [Bruini](https://github.com/bruini)
  - [VitorOta](https://github.com/vitorOta)
+ - [SampratiSimran](https://github.com/SampratiSimran)
  - [anandwana001](https://github.com/anandwana001)
  - [leesenpai](https://github.com/leesenpai)
  - [vineeth030](https://github.com/vineeth030)
