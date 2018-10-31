@@ -20,7 +20,7 @@ $.get(
     })
     .forEach(user => {
     	if(user) {
-        $('#census-list').append(`<li class='census-item'><a href="${user.url}">${user.name}</a></li>`);
+        $('#census-list').append(`<li style="color: blue" class='census-item'><a href="${user.url}">${user.name}</a></li>`);
 
         census_count++;
       }
