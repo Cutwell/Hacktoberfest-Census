@@ -1,4 +1,4 @@
-# Hacktoberfest Census
+﻿# Hacktoberfest Census
 
 A census of those participating in Hacktoberfest (and an easy PR!)
 
@@ -56,6 +56,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ashishkrishan1995](https://github.com/ashishkrishan1995)
  - [luisvillalba](https://github.com/luisvillalba)
  - [Jeril](https://github.com/jerilseb)
+ - [tfinnamore](https://github.com/tfinnamore)
  - [stuartmccoll](https://github.com/stuartmccoll)
  - [JamesJ](https://github.com/JamesJ)
  - [rootEnginear](https://github.com/rootEnginear)
