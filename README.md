@@ -431,6 +431,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Bahnburner](https://github.com/Bahnburner)
  - [atelljohannsmothers](https://github.com/atelljohannsmothers)
  - [dushyantRathore](https://github.com/dushyantRathore)
+ - [mrmajik45](https://github.com/mrmajik45)
  - [reinbauwens](https://github.com/reinbauwens)
  - [Yohan](https://github.com/yohanbash)
  - [HeavyVin](https://github.com/HeavyVin)
