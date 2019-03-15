@@ -20,7 +20,7 @@ I've now written a script to construct a census from the open Pull Requests (hen
 
 I would encourage everyone who participates in this project to not count it as one of your five Open Source contributions, due to it's simplistic nature, although obviously I can't stop you.
 
-Have a great Hacktoberfest ya'll and happy hacking!
+Have a great Hacktoberfest ya'll and happy hackingにゃーん?
 
  - Cutwell, 2018
 
