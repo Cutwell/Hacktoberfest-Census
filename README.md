@@ -32,6 +32,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [TICG](https://github.com/TICG)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
