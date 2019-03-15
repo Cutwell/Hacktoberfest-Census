@@ -233,7 +233,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [NesChaiyapon](https://github.com/NesChaiyapon)
  - [dance2die](https://github.com/dance2die)
  - [daphnied](https://github.com/daphnied)
- - [rpottsoh](https://github.com/rpottsoh)
+ - [rpottsoh](https://github.com/rpottsoh) (2017, 2018)
  - [trymnilsen](https://github.com/trymnilsen)
  - [DrevanTonder](https://github.com/DrevanTonder)
  - [mconcannon](https://github.com/mconcannon)
