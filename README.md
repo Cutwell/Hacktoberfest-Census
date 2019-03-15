@@ -60,6 +60,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [JamesJ](https://github.com/JamesJ)
  - [rootEnginear](https://github.com/rootEnginear)
  - [Prakhar0409](https://github.com/Prakhar0409)
+ - [prirocks42](https://github.com/prirocks42)
  - [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
  - [jete298](https://github.com/jete298)
  - [LoneWolf38](https://github.com/lonewolf38)
