@@ -1,7 +1,7 @@
 $.get(
   'https://raw.githubusercontent.com/Cutwell/Hacktoberfest-Census/master/README.md',
 
-  function(file) {
+  (file) => {
     const census_md = file.split('### Census')[1].split('\n');
     let census_count = 0;
 
