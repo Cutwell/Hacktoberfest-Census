@@ -344,6 +344,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Aurobindo Debnath](https://github.com/aurobindodebnath)
  - [Märt M](https://github.com/martmaemees)
  - [iamar7](https://github.com/iamar7)
+ - [nikiangelov](https://github.com/nikiangelov)
  - [mongkonwirunputi](https://github.com/mongkonwirunputi)
  - [CptSpookz](https://github.com/CptSpookz)
  - [randomization](https://github.com/randomization)
