@@ -46,6 +46,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Pablo](https://github.com/pablo0910)
  - [hackbansu](https://github.com/hackbansu)
  - [Selbahc](https://github.com/Selbahc)
+ - [FHott](https://github.com/fhott)
  - [Yikal](https://github.com/Yikal)
  - [marcelestial](https://github.com/marcelestial)
  - [Shahenzi](https://github.com/Shahenzi)
