@@ -206,6 +206,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [navjot12](https://github.com/navjot12)
  - [nitsujed](https://github.com/Nitsujed)
  - [stonenots](https://github.com/stonenots)
+ - [trueortrue](https://github.com/trueortrue)
  - [ppisut](https://github.com/ppisut)
  - [hjdarnel](https://github.com/hjdarnel)
  - [felipet-vsouza](https://github.com/felipet-vsouza)
