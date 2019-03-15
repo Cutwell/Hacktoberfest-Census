@@ -510,6 +510,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [dan1eltudares](https://github.com/dan1eltudares)
  - [LyNac](https://github.com/LyNac)
  - [syam3526](https://github.com/syam3526)
+ - [shutdown27](https://github.com/shutdown27)
  - [VishnuLeandro](https://github.com/VishnuLeandro)
  - [rejuls](https://github.com/rejuls)
  - [julianaklulo](https://github.com/julianaklulo)
