@@ -32,6 +32,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Seb1080](https://github.com/seb1080)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
