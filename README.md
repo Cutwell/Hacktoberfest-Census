@@ -190,6 +190,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [karltanjuan](https://github.com/karltanjuan)
  - [ShubhamNishad](https://github.com/shubhamnishad97)
  - [pangpond](https://github.com/pangpond)
+ - [David-Quan00](https://github.com/David-Quan00)
  - [waritthornnudee](https://github.com/waritthornnudee)
  - [Fly1nP4nda](https://github.com/Fly1nP4nda)
  - [MichelleJL](https://github.com/michellejl)
