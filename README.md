@@ -228,6 +228,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [minatorak](https://github.com/minatorak)
  - [Babbitt](https://github.com/babbitt)
  - [tomy8910](https://github.com/tomy8910)
+ - [SlowestLoris](https://github.com/SlowestLoris)
  - [Magauran](https://github.com/Magauran)
  - [PornthepS](https://github.com/PornthepS)
  - [NesChaiyapon](https://github.com/NesChaiyapon)
