@@ -217,6 +217,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Kusumoto](https://github.com/kusumoto)
  - [heemza](https://github.com/heemza)
  - [wtospit](https://github.com/wtospit)
+ - [Synapz1](https://github.com/Synapz1)
  - [HappyAfroSkeleton](https://github.com/HappyAfroSkeleton)
  - [Rorixrebel](https://github.com/RorixRebel)
  - [RajPathare](https://github.com/RajPathare)
