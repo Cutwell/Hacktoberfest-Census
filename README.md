@@ -9,7 +9,7 @@ This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Ce
 ---
 
 ### A Short Letter to Contributors
-Hi All, old or new Hacktoberfest contributors!
+
 
 This repository was initially created for the 2017 Hacktoberfest as a half joke, half serious census.
 Given that I've seen over a hundred new pull requests in the last 2 days alone, I guess you guys want to use it this year as well!
@@ -554,3 +554,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [pittyi2nd](https://github.com/pittyi2nd)
