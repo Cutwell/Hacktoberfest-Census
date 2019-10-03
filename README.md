@@ -211,7 +211,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [felipet-vsouza](https://github.com/felipet-vsouza)
  - [giandolando](https://github.com/giandolando)
  - [petro36](https://github.com/Petro36)
- - [dduncan](https://github.com/dduncan1987)
+ - [dduncan](https://github.com/dduncan1987)user:debajit15kgp hacktoberfestuser:debajit15kgp hacktoberfest
  - [parkerduckworth](https://github.com/parkerduckworth)
  - [aryan-mann](https://github.com/aryan-mann)
  - [Kusumoto](https://github.com/kusumoto)
@@ -351,7 +351,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [brookesargent](https://github.com/brookesargent)
  - [felipemfarias](https://github.com/felipemfarias)
  - [ellisonleao](https://github.com/ellisonleao)
- - [jackiemacharia](https://github.com/jackiemacharia)
+ - [jackiemacharia](https://github.com/jackiemacharia)user:debajit15kgp hacktoberfest
  - [xEpozZ](https://github.com/xepozz)
  - [CorneliusIV](https://github.com/CorneliusIV)
  - [okrasn](https://github.com/okrasn)
@@ -368,7 +368,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [uppe-r](https://github.com/uppe-r)
  - [twist295](https://github.com/twist295)
  - [OatRice](https://github.com/oatrice)
- - [vitorlans](https://github.com/vitorlans)
+ - [vitorlans](https://github.com/vitorlans)user:debajit15kgp hacktoberfest
  - [harsh4723](https://github.com/harsh4723)
  - [enneakr](https://github.com/enneakr)
  - [yuro8](https://github.com/yuro8)
@@ -541,7 +541,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [akjogawath](https://github.com/akjogawath)
  - [jonathandezoete](https://github.com/jonathandezoete)
  - [LaurentiusRenaldy](https://github.com/LaurentiusRenaldy)
- - [Aish94](https://github.com/Aish94)
+ - [Aish94](https://github.com/Aish94)user:debajit15kgp hacktoberfest
  - [HemeraOne](https://github.com/HemeraOne)
  - [alexjcollins](https://github.com/alexjcollins)
  - [Dilum_De_Silva](https://github.com/dilum1995)
@@ -554,3 +554,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [debajit15kgp](https://github.com/debajit15kgp)
