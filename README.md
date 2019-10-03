@@ -552,5 +552,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [amanvishnani](https://github.com/amanvishnani)
  - [SrGrace](https://github.com/SrGrace)
  - [Fábio Salata](https://github.com/fsalata)
+ - [Jyotika Sharma](https://github.com/Jyotika25)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
