@@ -32,8 +32,6 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [ABhijeet Mohapatra](https://github.com/abhiwin2010)
- - [k2kuldeep](https://github.com/k2kuldeep)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
