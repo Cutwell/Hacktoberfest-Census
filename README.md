@@ -53,6 +53,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [LoneWolf38](https://github.com/lonewolf38)
  - [Arneeee](https://github.com/Arneeee)
  - [hipposen](https://github.com/hipposen)
+ - [throwerror](https://github.com/throwerror)
  - [ApCoder123](https://github.com/ApCoder123)
  - [Shankhalika](https://github.com/Shankhalika)
  - [Pcheape](https://github.com/Pcheape)
