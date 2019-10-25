@@ -20,6 +20,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [SeakJohnny](https://github.com/SeakJohnny)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
@@ -66,7 +67,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ericduns](https://github.com/ericduns)
  - [carterschieffer](https://github.com/carterschieffer)
  - [davidkiarie](https://github.com/davidkiarie)
- - [Charllo](https://github.com/Charllo)
+ - [SeakJohnny](https://github.com/SeakJohnny)
  - [Arrowfan](https://github.com/Arrowfan)
  - [alexandvoigt](https://github.com/alexandvoigt)
  - [jkao1](https://github.com/jkao1)
