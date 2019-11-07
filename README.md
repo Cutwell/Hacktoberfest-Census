@@ -21,6 +21,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 
 ### Census
  - [Cutwell](https://github.com/Cutwell)
+ - [SirJoraH21](https://github.com/SirJoraH21)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
