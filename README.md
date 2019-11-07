@@ -151,6 +151,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Jogendra](https://github.com/imjog)
  - [lip3k](https://github.com/lip3k)
  - [dkostecki](https://github.com/dkostecki)
+ - [DeViLINSIDE](https://github.com/SparshKat)
  - [bsZeroFive](https://github.com/bsZeroFive)
  - [wadehammes](https://github.com/wadehammes)
  - [Mack-akp](https://github.com/Mack-akp)
