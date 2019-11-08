@@ -147,6 +147,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Galiant](https://github.com/Galiant)
  - [lulzhipsters](https://github.com/lulzhipsters)
  - [Devron](https://github.com/devronsoft)
+ - [Harvey](https://github.com/harvey)
  - [Ziper90](https://github.com/Ziper90)
  - [Jogendra](https://github.com/imjog)
  - [lip3k](https://github.com/lip3k)
