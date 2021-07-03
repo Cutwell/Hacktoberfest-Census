@@ -22,6 +22,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ### Census
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
+ - [MatheusNogueira](https://www.linkedin.com/in/matheusnogueirad/)
  - [adammendoza](https://github.com/adammendoza)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
@@ -481,7 +482,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Kiailandi](https://github.com/kiailandi)
  - [JesseRhoads](https://github.com/JesseRhoads)
  - [bsungur](https://github.com/bsungur)
- - [leticiafatimaa](https://github.com/leticiafatimaa) 
+ - [leticiafatimaa](https://github.com/leticiafatimaa)
  - [ggurbet](https://github.com/ggurbet)
  - [Dane David](https://github.com/danedavid)
  - [elijahio](https://github.com/elijahio)
@@ -542,3 +543,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [Jonhyp](https://github.com/jonhyp)
