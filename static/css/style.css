@@ -9,10 +9,19 @@ body {
 
 a {
   text-decoration: none;
+  border-bottom: #000;
+  color: #000;
+  transition: all .35s;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #f53900;
+  border-bottom: #f53900;
+}
+
+.cute-pumpkin {
+  width: 25px;
+  margin: 0 5px 0 10px;
 }
 
 br {
