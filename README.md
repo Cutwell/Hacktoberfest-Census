@@ -507,6 +507,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [wanharaderta](https://github.com/wanharaderta)
  - [kevinjt123](https://github.com/kevinjt123)
  - [JeffersonBC](https://github.com/JeffersonBC)
+ - [Amogh Singhal](https://github.com/devAmoghS)
  - [laika](https://github.com/laika)
  - [bellsenawat](https://github.com/bellsenawat)
  - [Caio Cardozo](https://github.com/caiocardozo)
