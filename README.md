@@ -380,6 +380,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Markandeya](https://github.com/Markandeya)
  - [BhagyaSanjeewa](https://github.com/BhagyaSanjeewa)
  - [HazardDev](https://github.com/HazardDev)
+ - [Rupal Jain](https://github.com/rupal16)
  - [Atlas34](https://github.com/Atlas34)
  - [abhinav-adtechs](https://github.com/abhinav-adtechs)
  - [danwatco](https://github.com/danwatco)
