@@ -217,6 +217,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Babbitt](https://github.com/babbitt)
  - [tomy8910](https://github.com/tomy8910)
  - [Magauran](https://github.com/Magauran)
+ - [ericngu](https://github.com/ericngu)
  - [PornthepS](https://github.com/PornthepS)
  - [NesChaiyapon](https://github.com/NesChaiyapon)
  - [dance2die](https://github.com/dance2die)
