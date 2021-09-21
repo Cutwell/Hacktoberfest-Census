@@ -20,6 +20,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ 
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
@@ -542,3 +543,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [Freudianslip](https://github.com/freudianslip99)
