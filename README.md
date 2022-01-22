@@ -100,6 +100,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [jcpetkovich](https://github.com/jcpetkovich)
  - [AndreyOrs](https://github.com/andreyors)
  - [Tuanny](https://github.com/tuannyruiz)
+ - [gugacavalieri](https://github.com/gugacavalieri)
  - [Abhishek](https://github.com/abhishek71994)
  - [Ashris](https://github.com/iashris)
  - [fossterer](https://github.com/fossterer)
