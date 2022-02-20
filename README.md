@@ -1,7 +1,3 @@
----
-title: Hacktoberfest Census README
----
-
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
 
