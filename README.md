@@ -1,16 +1,21 @@
-# Public Notice
-This repository ceased to have active maintenance in 2017. Since then, Hacktoberfest organisers Digital Ocean have tightened their requirements for a PR to count towards the event. This repository has been archived now as many people may be mislead by it's existence, and so may mistakenly use it in Hacktoberfest. Thanks for contributing, and enjoy future Hacktoberfests!
+---
+![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
+---
 
 
-# Hacktoberfest Census
+<p align="center">
+    <a href="https://github.com/Cutwell/Hacktoberfest-Census/stargazers"><img src="https://img.shields.io/github/stars/Cutwell/Hacktoberfest-Census?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/Cutwell/Hacktoberfest-Census/contributors"><img src="https://img.shields.io/github/contributors/Cutwell/Hacktoberfest-Census?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+ <a href="https://github.com/Cutwell/Hacktoberfest-Census/pulls"><img src="https://img.shields.io/github/issues-pr-raw/Cutwell/Hacktoberfest-Census?ccolorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+</p>
 
 A census of those participating in Hacktoberfest (and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
 
----
-![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
----
+
+### Public Notice
+This repository ceased to have active maintenance in 2017. Since then, Hacktoberfest organisers Digital Ocean have tightened their requirements for a PR to count towards the event. This repository has been archived now as many people may be mislead by it's existence, and so may mistakenly use it in Hacktoberfest. Thanks for contributing, and enjoy future Hacktoberfests!
 
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
