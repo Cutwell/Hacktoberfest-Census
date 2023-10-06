@@ -2,7 +2,7 @@
 ---
 
 
-<p align="center">
+<p align ="center">
     <a href="https://github.com/Cutwell/Hacktoberfest-Census/stargazers"><img src="https://img.shields.io/github/stars/Cutwell/Hacktoberfest-Census?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
     <a href="https://github.com/Cutwell/Hacktoberfest-Census/contributors"><img src="https://img.shields.io/github/contributors/Cutwell/Hacktoberfest-Census?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
  <a href="https://github.com/Cutwell/Hacktoberfest-Census/pulls"><img src="https://img.shields.io/github/issues-pr-raw/Cutwell/Hacktoberfest-Census?ccolorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
@@ -546,3 +546,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
+ - [kapiljain15778](kapiljain15778github.com)
