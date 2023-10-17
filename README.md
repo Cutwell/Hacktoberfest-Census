@@ -16,6 +16,16 @@ This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Ce
 ### Public Notice
 This repository ceased to have active maintenance in 2017. Since then, Hacktoberfest organisers Digital Ocean have tightened their requirements for a PR to count towards the event. This repository has been archived now as many people may be mislead by it's existence, and so may mistakenly use it in Hacktoberfest. Thanks for contributing, and enjoy future Hacktoberfests!
 
+## INSTRUCTIONS-
+- Fork this Repository using the button at the top on right corner.
+- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Create a pull request
+- Star this repository
+
+##  Wait for Pull Request to merge
+
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
 
